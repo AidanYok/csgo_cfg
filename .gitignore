@@ -1,3 +1,6 @@
 *.vcfg
 
 *.bak
+
+# assuming that tracking this is unessary
+trustedlaunch.cfg
