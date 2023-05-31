@@ -2,9 +2,10 @@
 *
 
 # tracking files
-!/.gitignore
+!.gitignore
 !README.md
 
 !launch_opttions
 
 !cfg/autoexec*
+!cfg/video.txt
