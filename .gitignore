@@ -7,7 +7,13 @@
 
 !launch_options
 
-!cfg/video.txt
+# add cfg directory
+!cfg/
 
+# then ignore everything in cfg
+cfg/*
+
+# except for these files
 !cfg/autoexec*
+!cfg/video.txt
 
