@@ -1,6 +1,10 @@
-*.vcfg
+# ignore all
+*
 
-*.bak
+# tracking files
+!/.gitignore
+!README.md
 
-# assuming that tracking this is unessary
-trustedlaunch.cfg
+!launch_opttions
+
+!cfg/autoexec*
