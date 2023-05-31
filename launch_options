@@ -1,1 +1,1 @@
-+exec autoexec -freq 240 -novid -tickrate 128 +fps_max 0 -high -nod3d9ex
++exec autoexec -freq 240 -novid -tickrate 128 -high -nod3d9ex
